@@ -2,4 +2,5 @@
 /Intermediate
 /Saved
 /Content/Developers/**
+/Content/StarterContent/*
 *.uproject
