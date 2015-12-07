@@ -17,3 +17,10 @@ Initialisation du projet :
   - Importez les Inputs 
   - Verifiez la partie action mapping et axes mapping
 - Play -> normalement le projet fonctionne
+
+DefaultEngine.ini
+=================
+```
+[OnlineSubsystem]
+DefaultPlatformService=Null
+```
