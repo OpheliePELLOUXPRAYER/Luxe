@@ -16,7 +16,7 @@ Initialisation du projet :
 - Onglet Input : 
   - Importez les Inputs 
   - Verifiez la partie action mapping et axes mapping
-- Play -> normalement le projet fonctionne
+- Play -> normalemment le projet fonctionne
 
 DefaultEngine.ini
 =================
@@ -24,3 +24,8 @@ DefaultEngine.ini
 [OnlineSubsystem]
 DefaultPlatformService=Null
 ```
+
+DefaultGame.ini
+ProjectID=758DA2B846D2AFC20D1DA292EDEAD42D
+
+Settings : change game instance pour LuxeGameInstance
