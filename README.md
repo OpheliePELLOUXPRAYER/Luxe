@@ -1,5 +1,6 @@
 # Luxe
 Projet Seminaire de Math Applique pour les Jeux Video
+
 Participant : 
 - Darrigol Marie
 - Leonard Anthony
