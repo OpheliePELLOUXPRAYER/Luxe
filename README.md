@@ -1,7 +1,7 @@
 # Luxe
 Projet Seminaire de Math Applique pour les Jeux Video
 
-Participant : 
+Participants : 
 - Darrigol Marie
 - Leonard Anthony
 - Pelloux-Prayer Ophelie
