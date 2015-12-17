@@ -1,5 +1,10 @@
 # Luxe
 Projet Seminaire de Math Applique pour les Jeux Video
+Participant : 
+- Darrigol Marie
+- Leonard Anthony
+- Pelloux-Prayer Ophelie
+- Rodrigues Hugo
 
 Initialisation du projet :
 ==============
@@ -31,4 +36,6 @@ DefaultGame.ini
 ProjectID=758DA2B846D2AFC20D1DA292EDEAD42D
 ```
 
-Settings : change game instance pour LuxeGameInstance
+Settings : 
+---------
+Changer game instance pour LuxeGameInstance
